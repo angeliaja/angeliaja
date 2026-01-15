@@ -1,16 +1,19 @@
-## Hi there 👋
+# Selamlar, ben angeliaja!👋
 
-<!--
-**angeliaja/angeliaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=[KULLANICI_ADIN]&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="görüntülenme" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 Hakkımda
+- 💻 Teknolojiyi ve kod yazmayı keşfetme aşamasındayım.
+- 🎯 Hedefim: Kendimi yazılım dünyasında geliştirip güzel projeler üretmek.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Yeteneklerim ve Araçlarım
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py," />
+</p>
+---
+
+### 📬 Bana Ulaşın:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliberke_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeliaja@proton.me)
